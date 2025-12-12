@@ -152,7 +152,7 @@ footer {
   border: 1px solid #ddd;
 }
 
-.participants-list li {
-  margin-bottom: 5px;
-  color: #333;
+.participants-list {
+  list-style: none;
+  padding: 0;
 }
